@@ -30,7 +30,7 @@ h2 {
 
 .coll-2 {
   width: 700px;
-  height: 250px;
+  height: 350px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -54,7 +54,7 @@ h2 {
 }
 
 .coll-3 {
-  width: 750px;
+  width: 1000px;
   height: 300px;
   object-fit: cover;
   cursor: pointer;
@@ -103,7 +103,7 @@ h2 {
 
 .coll-5 {
   width: 700px;
-  height: 200px;
+  height: 300px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
@@ -121,8 +121,8 @@ h2 {
 }
 
 .coll-6 {
-  width: 900px;
-  height: 200px;
+  width: 1000px;
+  height: 500px;
   object-fit: cover;
   cursor: pointer;
   transition: width 250ms ease, height 250ms ease;
